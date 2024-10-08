@@ -1,7 +1,7 @@
 from ops import *
 
-def add_test():
+def test_add():
     assert add(1, 2) == 3
 
-def substract_test():
+def test_stbtract():
     assert subtract(2, 1) == 1
