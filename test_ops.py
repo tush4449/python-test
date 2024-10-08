@@ -1,4 +1,4 @@
-from pythontest import *
+from ops import *
 
 def add_test():
     assert add(1, 2) == 3
